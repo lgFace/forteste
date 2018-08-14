@@ -1,0 +1,14 @@
+[debug] [2018-08-13T19:41:44.803Z] ----------------------------------------------------------------------
+[debug] [2018-08-13T19:41:44.806Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\gutao\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase use --add
+[debug] [2018-08-13T19:41:44.806Z] CLI Version:   4.0.3
+[debug] [2018-08-13T19:41:44.806Z] Platform:      win32
+[debug] [2018-08-13T19:41:44.806Z] Node Version:  v8.11.3
+[debug] [2018-08-13T19:41:44.807Z] Time:          Mon Aug 13 2018 16:41:44 GMT-0300 (Hora oficial do Brasil)
+[debug] [2018-08-13T19:41:44.807Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-13T19:41:44.822Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2018-08-13T19:41:44.823Z] > authorizing via signed-in user
+[debug] [2018-08-13T19:41:44.827Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+  
+ Mon Aug 13 2018 16:41:44 GMT-0300 (Hora oficial do Brasil)
+[debug] [2018-08-13T19:41:45.962Z] <<< HTTP RESPONSE 200
